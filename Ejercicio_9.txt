@@ -1,0 +1,1 @@
+Diseñar un programa que lea la hora actual del día en HH:MM:SS y determine cuantas horas, minutos y segundos restan para que termine el día.
